@@ -8,7 +8,6 @@
 
 <div align="center">
   <h3>
-    <span> | </span>
     <a href="https://matiasmass.github.io/interior-consultant/">
       Solution
     </a>
