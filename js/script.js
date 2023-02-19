@@ -3,7 +3,7 @@ const $navbarInner = document.querySelector('.navbar-inner');
 
 console.log($hamb)
 $hamb.addEventListener("click", function() {
-  if ($navbarInner.style.display === "none") {
+  if ($navbarInner.style.display === "none" || $navbarInner.style.display === "") {
       // console.log('click')
       $navbarInner.style.display = "flex";
     } else {
